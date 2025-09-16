@@ -1,6 +1,7 @@
 {
   "name": hardikgosai1 "chrome-extension-typescript-starter",
-  "version": "1.0.0",
+  
+"version": "1.0.0",
   "description": "chrome-extension-typescript-starter",
   "main": "index.js",
   "scripts": {
